@@ -1,0 +1,40 @@
+body {
+  background: aquamarine;
+}
+p {
+  text-decoration:overline;
+  color:firebrick;
+  font-family:fantasy;
+  font-size:20px;
+  text-align: right;
+}
+h1 {
+  font-weight:bolder;
+  font-family:fantasy;
+  color:fuchsia;
+}
+
+img {
+  border-style:dotted;
+  border-width:thick;
+  resize: inherit;
+  width:500px;
+}
+  
+.tomsvbucks {
+  color:indianred;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+h2 { 
+  color:coral; 
+  font-family:monospace
+}
+
+li {
+  color:darkolivegreen;
+  font-size:30px;
+}
