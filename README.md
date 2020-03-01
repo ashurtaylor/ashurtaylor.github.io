@@ -1,1 +1,0 @@
-# ashurtaylor.github.io
